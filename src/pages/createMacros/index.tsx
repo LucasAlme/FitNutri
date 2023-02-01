@@ -26,6 +26,7 @@ export default function CreateMacros() {
     setIsInActivity(true);
     setStep(2);
   };
+
   return (
     <MainContainer>
       <StatusBar backgroundColor=" #181818" barStyle={'light-content'} />
