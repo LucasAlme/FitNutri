@@ -5,6 +5,7 @@ import { Description, MainContainer, Title, Content } from './styles';
 
 export default function Home() {
   const navigation = useNavigation();
+
   return (
     <MainContainer>
       <StatusBar backgroundColor=" #181818" barStyle={'light-content'} />
