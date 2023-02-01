@@ -9,7 +9,6 @@
 
 
 # Getting started with the mobile app
-<p>Move yourself to the mobile folder: cd mobile</p>
 <p>Run expo start to start the mobile app</p>
 
 Note: If you choose to start the mobile app in the android emulator, you will have to start the emulator before using the run-android command.
